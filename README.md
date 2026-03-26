@@ -1,5 +1,5 @@
 ## Hi there 👋
-![snake gif](https://github.com/nguyenkhaan/nguyenkhaan/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/nguyenkhaan/nguyenkhaan/blob/output/github-contribution-grid-snake-dark-custom.svg)
 
 <!--
 **nguyenkhaan/nguyenkhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
