@@ -17,6 +17,7 @@ jobs:
         with:
           github_user_name: nguyenkhaan
           outputs: |
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFDE42&color_dots=#EAEFEF,#89D4FF,#44ACFF,#261CC1,#0D1A63
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
