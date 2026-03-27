@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![snake gif](https://github.com/nguyenkhaan/nguyenkhaan/blob/output/github-contribution-grid-snake-dark-custom.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats-92ge-7prns2xdm-nguyenkhaans-projects.vercel.app/api?username=nguyenkhaan&show_icons=true&them=radical)
+![GitHub Stats](https://github-readme-stats-92ge-7prns2xdm-nguyenkhaans-projects.vercel.app/api?username=nguyenkhaan&show_icons=true&theme=radical)
 
 <!--
 **nguyenkhaan/nguyenkhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
