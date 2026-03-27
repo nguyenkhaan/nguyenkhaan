@@ -94,12 +94,12 @@ CSS          26 mins               █▒░░░░░░░░░░░░░
 
 ## Stuffs :v  
 
-<a href = "https://github.com/walidbosso">
+<a href = "https://github.com/nguyenkhaan">
   <img src = "https://github.com/nguyenkhaan/nguyenkhaan/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
 
-<a href = "https://github.com/walidbosso">
+<a href = "https://github.com/nguyenkhaan">
   <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
