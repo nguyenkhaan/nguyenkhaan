@@ -3,6 +3,11 @@
 
 ![GitHub Stats](https://github-readme-stats-92ge-7prns2xdm-nguyenkhaans-projects.vercel.app/api?username=nguyenkhaan&show_icons=true&theme=radical)
 
+
+<a href = "https://github.com/walidbosso">
+  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+</a>
+
 <!--
 **nguyenkhaan/nguyenkhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
