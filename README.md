@@ -95,7 +95,7 @@ CSS          26 mins               █▒░░░░░░░░░░░░░
 ## Stuffs :v  
 
 <a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+  <img src = "https://github.com/nguyenkhaan/nguyenkhaan/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
 
