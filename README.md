@@ -6,7 +6,7 @@ I'm a **Fullstack Developer**, passionate on building scaleable, reality fronten
 - 🤖 AI integrations: Specialize in OpenCV, Computer Vision. 
 - ⚙️ Backend Developer: NestJS, Spring-boot, MVC Architecture, Database and ORM.
 - 🎨 Modern Frontend Design: UI/UX optimization, 3D web designs. 
-- 🧩 Devops: CI/CD Automization, containerization, monitoring. 
+- 🧩 Devops: CI/CD Automization, containerization, monitoring, Kubernetes 
 
 Reach me at: nguyenkhaan2006@gmail.com 
 
