@@ -118,7 +118,7 @@ CSS          26 mins               █▒░░░░░░░░░░░░░
 <image width="20%" src="https://ms.yugipedia.com//f/f4/CrystronEleskeletus-MADU-EN-VG-artwork.png" />
 
 
-<image width="20%" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOEoGgV6vO9vVoyMPo4F5MZgyjSBiNXdfZQ&s](https://static.zerochan.net/Albion.the.Sanctifire.Dragon.1024.4073566.webp)" />
+<img width="20%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOEoGgV6vO9vVoyMPo4F5MZgyjSBiNXdfZQ&s" />
 
 </p>
 
