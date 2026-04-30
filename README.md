@@ -112,7 +112,7 @@ CSS          26 mins               █▒░░░░░░░░░░░░░
 <image width="20%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13714538-e319-4cce-9062-6941ce18525d/dl1o76z-e4b08b86-2ac5-407f-a97c-0c53a7ec8804.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMzcxNDUzOC1lMzE5LTRjY2UtOTA2Mi02OTQxY2UxODUyNWQvZGwxbzc2ei1lNGIwOGI4Ni0yYWM1LTQwN2YtYTk3Yy0wYzUzYTdlYzg4MDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.W7Lg-YFZF3Eu6vH_QSAKw46cz9vhULmJvn3Qg2ksjc4" />
 
 
-<image width="20%" src="[https://preview.redd.it/incredible-ecclesia-the-virtuous-is-tier-0-v0-lco9kdonpa4b1.png?width=512&format=png&auto=webp&s=b78759b5cce246417ed0790475d0bd3ede1634de](https://ms.yugipedia.com//a/a7/IncredibleEcclesiatheVirtuous-MADU-EN-VG-artwork.png)" />
+<img src="https://ms.yugipedia.com//a/a7/IncredibleEcclesiatheVirtuous-MADU-EN-VG-artwork.png" width="20%" />
 
 
 <image width="20%" src="https://ms.yugipedia.com//f/f4/CrystronEleskeletus-MADU-EN-VG-artwork.png" />
