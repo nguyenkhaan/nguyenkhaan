@@ -118,7 +118,7 @@ CSS          26 mins               █▒░░░░░░░░░░░░░
 <image width="20%" src="https://ms.yugipedia.com//f/f4/CrystronEleskeletus-MADU-EN-VG-artwork.png" />
 
 
-<img width="20%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOEoGgV6vO9vVoyMPo4F5MZgyjSBiNXdfZQ&s" />
+<img width="20%" src="https://res.cloudinary.com/dtmg8vjff/image/fetch/c_limit,w_1920,q_auto:eco,f_auto/https://ygopro.online/assets/card-arts/76072561.jpg" />
 
 </p>
 
